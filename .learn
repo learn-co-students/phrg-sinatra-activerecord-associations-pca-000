@@ -3,3 +3,4 @@ tags:
 resources: 1
 languages: 
   - ruby
+parent_template: git@github.com:learn-co-curriculum/sinatra-activerecord-associations.git
